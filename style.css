@@ -1,0 +1,38 @@
+body{
+    padding: 100px;
+}
+
+.welcome-heading{
+    text-align: center;
+}
+
+.submit-area{
+    margin-top: 50px;
+    padding: 40px 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#internal-area{
+    display: none;
+}
+
+.deposit{
+    background-color: #af12af;
+}
+
+.withdraw{
+    background-color: tomato;
+}
+
+.balance{
+    background-color: orange;
+}
+
+.style{
+    margin: 10px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
